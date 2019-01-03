@@ -59,7 +59,8 @@ static get DATABASE_URL() {
 1. Intro To Service Workers & Caching - https://www.youtube.com/watch?v=ksXwaWHCW6k&t=401s
 2. Breadcrumb W3.org - https://www.w3.org/TR/wai-aria-practices/examples/breadcrumb/index.html
 3. Listbox Arria - https://www.w3.org/TR/2017/WD-wai-aria-practices-1.1-20170628/examples/listbox/listbox.html
-4. Using ARIA: Roles, States, and Properties - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques
+4.
+Using ARIA: Roles, States, and Properties - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques
 5. media queries W3Schools - https://www.w3schools.com/css/css3_mediaqueries_ex.asp
 6. How to Setup a Basic Service Worker (with Caching) - https://www.youtube.com/watch?v=BfL3pprhnms&feature=youtu.be
 
